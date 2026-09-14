@@ -126,6 +126,13 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
   **LT SPICE**
   **CIRCUIT and Waveform**
+  **INVERTING AMPLIFIER:**
+  <img width="1280" height="720" alt="WhatsApp Image 2026-09-14 at 8 00 39 PM" src="https://github.com/user-attachments/assets/9c520442-b3e9-495b-a9d4-74757ed21f35" />
+**NON INVERTING AMPLIFIER:**
+<img width="1280" height="720" alt="WhatsApp Image 2026-09-14 at 8 01 21 PM" src="https://github.com/user-attachments/assets/1ef787f1-b044-488c-a437-6a89abd64826" />
+**DIFFERENTIAL AMPLIFIER:**
+<img width="821" height="413" alt="WhatsApp Image 2026-09-14 at 8 02 30 PM" src="https://github.com/user-attachments/assets/b3ab9900-5d5c-4eb2-b3fd-4b1f812bb945" />
+
   
 
 **RESULT:**
